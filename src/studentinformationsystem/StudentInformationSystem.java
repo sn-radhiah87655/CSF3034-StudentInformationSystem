@@ -15,6 +15,11 @@ public class StudentInformationSystem {
         System.out.println("Student: " +student);
         System.out.println("Student ID: " +student_id);
         
+        int total_mark;
+        total_mark = mark1 + mark2;
+        System.out.println("Total marks: " +total_mark);
+        System.out.println("Good");
+        System.out.println("Good Luck!");
     }
     
 }

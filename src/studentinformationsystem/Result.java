@@ -19,6 +19,7 @@ public class Result {
         total_mark = mark1 + mark2;
         System.out.println("Total marks: " +total_mark);
         System.out.println("Good");
+        System.out.println("Good Luck!");
     }
     
 }
